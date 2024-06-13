@@ -1,5 +1,5 @@
 <script>
 function myFunction() {
-  document.getElementById("demo").style.color = "red"
+  document.getElementById("demo").innerHTML = "Test 3"
 }
 </script>
